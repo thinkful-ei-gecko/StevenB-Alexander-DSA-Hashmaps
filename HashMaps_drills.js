@@ -23,4 +23,5 @@ const main = () => {
   return lor;
 };
 
-console.log(main());
+// console.log(main());
+
