@@ -100,6 +100,5 @@ function anagramGrouping(arr) {
 const testArr = ['east', 'cars', 'acre', 'arcs', 'teas', 'eats', 'race'];
 
 console.log('Testing outcome of anagramGrouping()...');
-console.log('');
 console.log(anagramGrouping(testArr));
-console.log('');
+
